@@ -113,7 +113,7 @@ bid_447 <- (int+age_60+(nep*54)+(risk*60)-avg_vote)/bid
 
 ```
 
-person 22 = -$266
+person 22 = -$266 <- whale hater
 person 233 = $260
 person 447 = $302
 
